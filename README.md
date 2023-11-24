@@ -27,10 +27,10 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: lilagomes3@hotmail.com">
-      <img width="30" src="outlook.svg">
+      <img width="30" src="outlook.png">
     </a>
     <a href = "https://www.linkedin.com/in/eliete-campos/">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="linkedin.png">
     </a>
         <a href = "https://www.instagram.com/elietecamposdev/">
       <img width="25" src="instagram.png">
