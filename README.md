@@ -2,7 +2,7 @@
 
 - 💬 Sou Eliete Campos, sou mãe e esposa, e estou iniciando nessa nova carreira em Desenvolvimento de Sistemas
 - 🔭 Hoje faço estágio como FrontEnd e estou adorando!!
-- 🌱 Estou aprendendo Typescript, Javascript, Angular...
+- 🌱 Estou aprendendo Typescript, Javascript, Angular, React...
 - 📫 Meu contato : lilagomes3@hotmail.com
 - 😄 Pronouns: ela/dela
 
