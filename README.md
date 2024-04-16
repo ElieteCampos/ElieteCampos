@@ -1,7 +1,7 @@
 ## Olá Devs, Bem vindos (as)!! 👋
 
 - 💬 Sou Eliete Campos.
-  - 📫 Meu contato : lilagomes3@hotmail.com
+  - 📫 Meu contato : eliete.gomes.ext@agworks.com.br
 - 😄 Pronouns: ela/dela
 
 -->
