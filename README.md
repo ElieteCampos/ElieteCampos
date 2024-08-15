@@ -7,7 +7,7 @@
 -->
 <div>
      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElieteCampos&show_icons=true&theme=radical"/>
-  <img heigth="180rem" src="https://github-readme-stats.vercel.app/api?username=ElieteCampos)](https://github.com/ElieteCampos/github-readme-stats"/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElieteCampos)]
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieteCampos&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
