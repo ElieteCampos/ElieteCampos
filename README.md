@@ -29,7 +29,7 @@
     <br>    
   <div> <img  align="center" height="180em" alt="coding-time" src="cut.gif"></div> <br>
   <div style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,angular,vscode,git " />
+      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,angular,vscode,git,c# " />
       <img src="https://skillicons.dev/icons?i=typescript,javascript" />
       <br>
       <br>  
