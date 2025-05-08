@@ -8,14 +8,14 @@
 <br>
 <br>
 
-<div align="center ">
+<div align="center">
       <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,angular,vscode,git,cs " />
       <img src="https://skillicons.dev/icons?i=typescript,javascript" />
       <br>
       <br>  
 </div>
 
-<div>
+<div align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElieteCampos&show_icons=true&theme=radical"/>  
     <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieteCampos&layout=compact&langs_count=16&theme=radical"/>
 </div>
