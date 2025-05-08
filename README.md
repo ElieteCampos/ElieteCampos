@@ -5,8 +5,14 @@
 - Graduation in Systems Analysis and Development
   Postgraduate in Artificial Intelligence
   - 📫 My contact : eliete.gomes.ext@agworks.com.br
--dev frontend
--->
+dev frontend
+
+<div style="display: inline-block;">
+      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,angular,vscode,git,cs " />
+      <img src="https://skillicons.dev/icons?i=typescript,javascript" />
+      <br>
+      <br>  
+</div>
 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElieteCampos&show_icons=true&theme=radical"/>  
@@ -28,11 +34,7 @@
   </div>
     <br>    
   <div> <img  align="center" height="180em" alt="coding-time" src="cut.gif"></div> <br>
-  <div style="display: inline-block;">
-      <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,angular,vscode,git,cs " />
-      <img src="https://skillicons.dev/icons?i=typescript,javascript" />
-      <br>
-      <br>  
-    </div>
+  
+</div>
 </div>
 
