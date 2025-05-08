@@ -5,11 +5,10 @@
 - Graduation in Systems Analysis and Development
   Postgraduate in Artificial Intelligence
   - 📫 My contact : eliete.gomes.ext@agworks.com.br
---> dev frontend
 <br>
 <br>
 
-<div align="center style="display: inline-block;">
+<div align="center ">
       <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,angular,vscode,git,cs " />
       <img src="https://skillicons.dev/icons?i=typescript,javascript" />
       <br>
