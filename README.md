@@ -5,8 +5,7 @@
 - Graduation in Systems Analysis and Development
   Postgraduate in Artificial Intelligence
   - 📫 My contact : eliete.gomes.ext@agworks.com.br
-<br>
-<br>
+<br><br>
 
 <div align="center">
   <!-- Skill Icons -->
