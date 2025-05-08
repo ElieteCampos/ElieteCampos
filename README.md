@@ -17,19 +17,17 @@
   
   <br><br>
   
-  <!-- GitHub Stats -->
   <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElieteCampos&show_icons=true&theme=radical" />  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElieteCampos&layout=compact&langs_count=16&theme=radical" />
   </div>
   
-  <br>
-  
-  <!-- Social Media Section -->
+  <br>  
+
   <div>
     <div style="display: inline_block">
       <img align="left" height="250" alt="coding-time" src="code.gif">
-      
+      <div>
       <div>  
         <h1 align="center">Social Media</h1>
         <div>
