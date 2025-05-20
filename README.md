@@ -2,7 +2,7 @@
 
 - 🙂 I'm Eliete Campos.
 - 🏡I live in Sao Paulo city, Brazil
-- 💄Pronouns : Ela/Dela/She
+- 💄Pronouns : Ela/Dela
 - 🏫 Graduation in Systems Analysis and Development
   Postgraduate in Artificial Intelligence
 - 📫 My contact : eliete.gomes.ext@agworks.com.br
