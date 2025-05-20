@@ -1,3 +1,4 @@
+![ClipWindowsGIF](https://github.com/user-attachments/assets/4c4d3f19-5633-4399-a2c9-1c98cabd03e4)
 ## Hello Devs, Welcome!! 👋
 
 - 💬 I'm Eliete Campos.
