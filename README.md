@@ -1,11 +1,11 @@
-![ClipWindowsGIF](https://github.com/user-attachments/assets/4c4d3f19-5633-4399-a2c9-1c98cabd03e4)
-## Hello Devs, Welcome!! 👋
+## Hello, Welcome!! 👋
 
-- 💬 I'm Eliete Campos.
-- I live in Sao Paulo city, Brazil
-- Graduation in Systems Analysis and Development
+- 🙂 I'm Eliete Campos.
+- 🏡I live in Sao Paulo city, Brazil
+- 💄Pronouns : Ela/Dela/She
+- 🏫 Graduation in Systems Analysis and Development
   Postgraduate in Artificial Intelligence
-  - 📫 My contact : eliete.gomes.ext@agworks.com.br
+- 📫 My contact : eliete.gomes.ext@agworks.com.br
 <br><br>
 
 <div align="center">
