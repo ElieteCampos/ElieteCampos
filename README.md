@@ -29,15 +29,15 @@
 </div>
   
   #
+ <div >
 <img align="right" alt="" height="190px" src="cut.gif">
-
+ 
 <h3 align="center">Connect with me!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:lilagomes3@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/eliete-campos/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/elietecamposdev/)
 
-#
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elietecampos/elietecampos/output/github-contribution-grid-snake-dark.svg">
@@ -46,7 +46,7 @@
 </picture>
 
 
-   
+ #  
       
 
 
